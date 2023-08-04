@@ -1,5 +1,5 @@
 /**
- *  Complete the function solveMeFirst to compute the sum of two integers.
+ Complete the function solveMeFirst to compute the sum of two integers.
 
 Example
 a = 7
@@ -18,7 +18,7 @@ int b: the second value
 Returns
 - int: the sum of a and b
  */
-
+package solveMeFirst;
 import java.util.*;
 
 public class Solution {
